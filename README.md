@@ -1,2 +1,1 @@
-# Discord Bot Template
-
+# Job Bot
