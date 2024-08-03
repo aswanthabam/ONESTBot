@@ -20,6 +20,7 @@ log = logging.getLogger(__name__)
 
 initial_extensions = (
     'cogs.user_cog',
+    'cogs.job_cog',
 )
 
 guild_id = int(config("GUILD_ID"))
